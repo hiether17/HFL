@@ -1,8 +1,6 @@
-<head></head>
-    <title>Sample cv </title>
-    <style>
-        body{
-    background-image: url(https://res.klook.com/image/upload/q_85/c_fill,w_1360/q_80/blogen/2018/03/blog-cover-8.webp);
+
+body{
+    background-image: url("PHOTOS/BackGround\ 1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -75,40 +73,3 @@ h1{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 75px;
   }
-    </style>
-    <link rel="stylesheet" type="text/css" href="index-style.css" media="screen">
-    </head>
-    
-    <body data-new-gr-c-s-check-loaded="14.1195.0" data-gr-ext-installed="">
-        <header>
-            <div class="header">
-                <div class="header-Left">
-                    <a href="index.html" class="logo">HFL</a>
-                </div>
-            <div class="header-Right">
-                <a href="services.html">Services</a>
-                <a href="resume.html">Resume</a>
-                <a href="about.html">About</a>
-                 <a href="testi.html.html">testimonial</a>
-                <a class="active" href="index.html">Home</a>
-            </div>
-        </div>
-    
-        </header>
-    
-        <section>
-               <h1>Services</h1>
-            <p>
-             I dont really know why I put services in this website, wala nako kabalo unsa akong ibutang huhuhuhuhu   
-            </p>
-        </section>
-    
-        <footer class="">
-            <div class="footer">
-                © Copyright <strong><span>Sample CV</span></strong>. All Rights Reserved
-            </div>
-        </footer>
-    
-    
-    
-    </body>
